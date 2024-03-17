@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>maven-plugin</packaging>
 
-    <groupId>hu.unideb.inf</groupId>
+    <groupId>hu.unideb.inf.codexe</groupId>
     <artifactId>codexe-exam-maven-plugin</artifactId>
     <version>1.0.0</version>
 
